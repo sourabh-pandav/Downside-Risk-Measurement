@@ -3,6 +3,7 @@ Overview
 Financial risk analysis and management are crucial aspects of investment strategies. This Python project delves into the theoretical foundation and practical implementation of risk management techniques using historical stock data. The goal is to provide a comprehensive understanding of downside risk measurement, Value at Risk (VaR), Conditional Value at Risk (CVaR), and advanced risk management methodologies.
 
 Theoretical Concepts
+
 1. Downside Risk Measurement:
 Definition: Downside risk refers to the potential for losses in an investment portfolio. It focuses on adverse outcomes rather than overall volatility.
 
@@ -29,6 +30,7 @@ Drawdown Plot: Visualizes the wealth drawdown over time, providing a graphical r
 Distribution Visualization: Plots the distribution of daily percentage changes and fits a normal distribution, aiding in the comprehension of risk.
 
 6. Advanced Risk Management Techniques:
+
 Stress Testing: A technique to evaluate portfolio performance under extreme scenarios, implemented through stress_test function.
 
 Scenario Analysis: Examining the impact of hypothetical scenarios on portfolio returns, implemented through scenario_analysis function.
